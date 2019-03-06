@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Geoscan 101'
+project = 'Geoscan Lite'
 copyright = '2019, Geoscan'
 author = 'Geoscan'
 
