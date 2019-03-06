@@ -72,16 +72,6 @@
    Модернизированный фотоаппарат Sony A6000
 
 
-
-
-.. figure:: _static/_images/sonyrx1.png
-   :align: center
-   :width: 400
-
-   Модернизированный фотоаппарат Sony RX1 (для модификации «Геодезия»)
-
-
-
 .. figure:: _static/_images/charger.png
    :align: center
    :width: 400
