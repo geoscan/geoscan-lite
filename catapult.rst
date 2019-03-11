@@ -17,13 +17,13 @@
     :width: 400
 
 .. |c6| image:: _static/_images/c6.png
-    :width: 100
+    :width: 400
 
 .. |c7| image:: _static/_images/c7.png
-    :width: 100
+    :width: 400
 
 .. |c8| image:: _static/_images/c8.png
-    :width: 100
+    :width: 400
 
 
 Узлы, детали и принадлежности
