@@ -41,21 +41,24 @@
 .. figure:: _static/_images/charge1.png
    :align: center
    :width: 400
-   :alt: Главное меню
+
+   Главное меню
 
 Если по умолчанию на зарядном устройстве установлен английский язык, зайдите в пункт меню **Uset**:
 
 .. figure:: _static/_images/lang1.png
    :align: center
    :width: 400
-   :alt: Настройки
+
+   Настройки
 
 Выберите **Language**:
 
 .. figure:: _static/_images/lang2.png
    :align: center
    :width: 400
-   :alt: Язык
+
+   Язык
 
 Установите **Русский язык**.
 
@@ -66,14 +69,16 @@
 .. figure:: _static/_images/charge2.png
    :align: center
    :width: 400
-   :alt: Тип 
+
+   Тип 
 
 В разделе **Элементы** стрелками выберите **4Cells** **14.8V**:
 
 .. figure:: _static/_images/charge3.png
    :align: center
    :width: 400
-   :alt: Элементы
+
+   Элементы
 
 
 В разделе **Режим** выберите:
@@ -93,35 +98,40 @@
 .. figure:: _static/_images/charge4.png
    :align: center
    :width: 400
-   :alt: Режим
+
+   Режим
 
 В разделе **Ток** выберите 5.0А в верхней шкале (ток заряда), 3.0А в нижней шкале (ток разряда):
 
 .. figure:: _static/_images/charge5.png
    :align: center
    :width: 400
-   :alt: Ток 
+
+   Ток
 
 Перейдите в раздел **Настройки**:
 
 .. figure:: _static/_images/charge7.png
    :align: center
    :width: 400
-   :alt: Настройки 
+
+   Настройки 
 
 В разделе **Настройки** установите **Отсечка по времени** *200 Minute*:
 
 .. figure:: _static/_images/charge6.png
    :align: center
    :width: 400
-   :alt: Отсечка по времени 
+
+   Отсечка по времени 
 
 В разделе **Настройки** установите **Отсечка по емкости** *10.0 Ah*:
 
 .. figure:: _static/_images/charge8.png
    :align: center
    :width: 400
-   :alt: Отсечка по емкости 
+
+   Отсечка по емкости 
 
 Зарядка АКБ
 ---------------------
@@ -140,7 +150,8 @@
 .. figure:: _static/_images/charge9.png
    :align: center
    :width: 400
-   :alt: Старт заряда 
+
+   Старт заряда 
 
 Рекомендации по использованию литий-полимерного (LiPo) АКБ
 ----------------------------------------------------------
@@ -188,5 +199,3 @@
 
 
 .. _Зарядите АКБ: charger.html#id4
-
-
