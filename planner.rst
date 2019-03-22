@@ -73,7 +73,7 @@
 
 .. figure:: _static/_images/pl5.png
    :align: center
-   :width: 500
+   :width: 300
 
    Подключение БВС
 
@@ -106,7 +106,7 @@
 
 .. figure:: _static/_images/planner8.png
    :align: center
-   :width: 500
+   :width: 300
 
    Создание площадной аэрофотосъемки
 
@@ -202,7 +202,7 @@ ________________________
 
 .. figure:: _static/_images/planner16.png
    :align: center
-   :width: 500
+   :width: 300
 
    Создание области линейной аэрофотосъемки
 
@@ -238,7 +238,7 @@ _______________________________________________
 
 .. figure:: _static/_images/planner19.png
    :align: center
-   :width: 500
+   :width: 300
 
    Создание перелета
 
@@ -281,7 +281,7 @@ _______________________________________________
 
 .. figure:: _static/_images/planner22.png
    :align: center
-   :width: 500
+   :width: 300
 
    Создание точки ожидания
 
@@ -329,7 +329,7 @@ _______________________________________________
 
 .. figure:: _static/_images/planner31.png
    :align: center
-   :width: 500
+   :width: 300
 
    Создание посадки
 
