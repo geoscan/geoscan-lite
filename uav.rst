@@ -37,7 +37,6 @@
 .. |case| image:: _static/_images/case.png
     :width: 400
 
-
 .. |zip| image:: _static/_images/zip.png
     :width: 400
 
