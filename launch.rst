@@ -27,7 +27,7 @@
 .. _Geoscan Planner: planner.html#id2
 .. _разверните НСУ: nsu.html#id2
 .. _мастер предстартовой подготовки: planner.html#id12
-.. _Старт: planner.html#id12
+.. _Старт: planner.html#id13
 .. _Парашютная система: uav.html#id4
 .. _маршрут посадки: planner.html#id11
 .. _Правила обращения с резиновыми жгутами: catapult.html#id5
