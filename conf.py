@@ -149,7 +149,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, '101-doc', '101-doc Documentation',
+    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
      [author], 1)
 ]
 
