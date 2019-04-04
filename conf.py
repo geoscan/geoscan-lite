@@ -118,7 +118,9 @@ htmlhelp_basename = '101-docdoc'
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
-'papersize': 'a4paper',
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    # 'papersize': 'letterpaper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -126,7 +128,7 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-'preamble': '',
+    # 'preamble': '',
 
     # Latex figure (float) alignment
     #
