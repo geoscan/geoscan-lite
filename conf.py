@@ -160,7 +160,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, '101-doc', '101-doc Documentation',
+    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
      author, '101-doc', 'One line description of project.',
      'Miscellaneous'),
 ]
