@@ -26,7 +26,7 @@ author = 'Geoscan'
 # The short X.Y version
 version = '0.9'
 # The full version, including alpha/beta/rc tags
-release = 'rc'
+release = 'RC'
 
 
 # -- General configuration ---------------------------------------------------
@@ -118,9 +118,7 @@ htmlhelp_basename = '101-docdoc'
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
-    # The paper size ('letterpaper' or 'a4paper').
-    #
-    # 'papersize': 'letterpaper',
+'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -128,7 +126,7 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    # 'preamble': '',
+'preamble': '',
 
     # Latex figure (float) alignment
     #
@@ -139,8 +137,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '101-doc.tex', '101-doc Documentation',
-     'Geoscan', 'manual'),
+    (master_doc, '101-doc.tex', 'Геоскан Lite Руководство по эксплуатации',
+     'Geoscan, 2019', 'manual'),
 ]
 
 
@@ -149,7 +147,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, '101-doc', '101-doc Documentation',
+    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
      [author], 1)
 ]
 
@@ -160,7 +158,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, '101-doc', '101-doc Documentation',
+    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
      author, '101-doc', 'One line description of project.',
      'Miscellaneous'),
 ]
