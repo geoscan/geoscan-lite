@@ -24,9 +24,9 @@ copyright = '2019, Geoscan'
 author = 'Geoscan'
 
 # The short X.Y version
-version = '0.9'
+version = ''
 # The full version, including alpha/beta/rc tags
-release = 'RC'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -112,35 +112,48 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = '101-docdoc'
+htmlhelp_basename = 'Geoscan_Lite_Manual'
 
-
+latex_logo  = "_static/_images/logo_latex.png"
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'openany',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-     'pointsize': '11pt',
+    'pointsize': '10pt',
 
     # Additional stuff for the LaTeX preamble.
     #
-     'preamble': '',
+    'preamble': '',
 
     # Latex figure (float) alignment
     #
-     'figure_align': 'H',
+    'figure_align': 'H',
+    
+        'fontpkg': r'''
+
+''',
+    # Additional stuff for the LaTeX preamble.
+    'preamble': r"""
+    \usepackage{setspace}
+    \usepackage{fontspec}
+    \setmainfont[Ligatures=TeX]{Georgia}
+    \setsansfont[Ligatures=TeX]{Arial}
+    """,
+
 }
+
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '101-doc.tex', 'Geoscan Lite Manual',
-     'Geoscan', 'manual'),
+    (master_doc, 'Geoscan_Lite_Manual.tex', '',
+     '', 'manual'),
 ]
 
 
@@ -149,7 +162,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
+    (master_doc, 'Geoscan_Lite_Manual', 'Геоскан Lite Руководство по эксплуатации',
      [author], 1)
 ]
 
@@ -160,8 +173,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, '101-doc', 'Геоскан Lite Руководство по эксплуатации',
-     author, '101-doc', 'One line description of project.',
+    (master_doc, 'Geoscan_Lite_Manual', 'Геоскан Lite Руководство по эксплуатации',
+     author, 'Geoscan_Lite_Manual', 'One line description of project.',
      'Miscellaneous'),
 ]
 
